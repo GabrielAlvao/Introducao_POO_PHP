@@ -68,6 +68,7 @@ class Conta
    {
        return self::$numeroDeContas;
    }
+  
 }
 
 // public defina que o acesso aos atributos será public
